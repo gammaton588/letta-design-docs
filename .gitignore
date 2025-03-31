@@ -1,0 +1,25 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Backup files
+*.bak
+*.gho
+*.ori
+*.orig
+*.tmp
+
+# Logs
+*.log
+
+# Environment files (if any)
+.env
+*.env
+
+# Temporary files
+~*
+
+# Sensitive information (just in case)
+*.secret
+*.key
